@@ -6,6 +6,7 @@ var collections = require('metalsmith-collections');
 var metadata = require('metalsmith-metadata');
 var drafts = require('metalsmith-drafts');
 
+console.log(dato);
 Metalsmith(__dirname)
   .metadata({
     title: "My Static Site & Blog",

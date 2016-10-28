@@ -1,5 +1,6 @@
 ---
 collection: services
+dato: dato
 layout: layout.html
 ---
 
